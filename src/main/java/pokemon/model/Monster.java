@@ -1,4 +1,4 @@
-package pokemon;
+package pokemon.model;
 
 public class Monster {
     protected String name;
